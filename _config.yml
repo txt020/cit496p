@@ -18,11 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tony Tong
+title: ""
+#title: Tony Tong 
 email: tony.tong.210@my.csun.edu 
 description: >- # Hello my name is Tony and I am a developer and would like to work in DevOps
-url: "" #
-twitter_username: Playmaker
+baseurl: "beenChanged" # baseurl
+url: "" # the base hostname
+twitter_username: notreal
+#twitter_username: txt020
 github_username:  txt020
 
 # Build settings
