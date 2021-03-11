@@ -26,7 +26,7 @@ baseurl: "beenChanged" # baseurl
 url: "" # the base hostname
 twitter_username: notreal
 #twitter_username: txt020
-github_username:  txt020
+github_username:  usenotreal
 
 # Build settings
 theme: minima
