@@ -25,7 +25,7 @@ description: >- # Hello my name is Tony and I am a developer and would like to w
 baseurl: "beenChanged" # baseurl
 url: "" # the base hostname
 twitter_username: notreal
-github_username:  hellllo
+github_username:  txt020
 
 # Build settings
 theme: minima
